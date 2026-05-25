@@ -33,14 +33,6 @@
 - **Network Monitoring** - Real-time network status and performance metrics
 - **Role-Based Access Control** - Multi-user authentication with granular permissions
 
-#### 🛠️ Tech Stack:
-- **Frontend:** React 18, Tailwind CSS, Chart.js, React Router v6
-- **Backend:** Node.js, Express.js, RESTful APIs
-- **Database:** MySQL, Sequelize ORM
-- **Real-time:** Socket.io for live updates
-- **Authentication:** JWT with refresh tokens
-- **Deployment:** Docker, nginx
-
 #### 📊 Project Highlights:
 - Real-time customer data synchronization
 - Advanced reporting and export capabilities (PDF/Excel)
@@ -64,15 +56,6 @@
 - **Email Integration** - Automated email notifications via SendGrid
 - **Performance Metrics** - Department and official performance tracking
 
-#### 🛠️ Tech Stack:
-- **Frontend:** React 18+, Zustand, TanStack Query, Tailwind CSS, shadcn/ui
-- **Backend:** Node.js, Express.js, JWT authentication
-- **Database:** MySQL, Sequelize ORM
-- **Real-time:** Socket.io for live notifications
-- **File Upload:** Multer for attachment handling
-- **Email Service:** Nodemailer + SendGrid integration
-- **Security:** Helmet, CORS, Rate limiting, bcrypt
-- **Build Tool:** Vite
 
 #### 📊 Project Highlights:
 - Responsive design (mobile-first approach)
@@ -99,13 +82,6 @@
 - **Error Handling** - Comprehensive error handling and logging
 - **Security Best Practices** - Helmet, CORS, input validation
 
-#### 🛠️ Tech Stack:
-- **Frontend:** React 18, React Router, React Query, React Hook Form, Tailwind CSS, Axios
-- **Backend:** Node.js 18, Express.js, JWT authentication, bcryptjs
-- **Database:** PostgreSQL 15, Sequelize ORM, UUID primary keys
-- **DevOps:** Docker, Docker Compose, Health checks
-- **Logging:** Morgan for request logging
-- **Validation:** express-validator
 
 #### 📊 Project Highlights:
 - MVC architecture pattern
@@ -137,15 +113,6 @@
 - **Analytics Dashboard** - Track platform usage and statistics
 - **Real-Time Updates** - Live appointment availability and booking
 
-#### 🛠️ Tech Stack:
-- **Frontend:** React 18, React Router, Tailwind CSS, React Toastify, Axios, Vite
-- **Backend:** Node.js, Express.js, RESTful APIs
-- **Database:** MongoDB, Mongoose ODM
-- **Authentication:** JWT tokens, bcrypt password hashing
-- **Payment Integration:** Stripe API, EasyPaisa, JazzCash
-- **Cloud Storage:** Cloudinary for images
-- **Development:** Nodemon, ESLint, Git
-- **Deployment:** Production-ready architecture
 
 #### 📊 Project Highlights:
 - AI-powered intelligent assistance
